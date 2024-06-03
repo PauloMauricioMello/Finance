@@ -1,0 +1,12 @@
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\bin\Debug\net8.0\Fina.Core.deps.json
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\bin\Debug\net8.0\Fina.Core.dll
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\bin\Debug\net8.0\Fina.Core.pdb
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfoInputs.cache
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfo.cs
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.csproj.CoreCompileInputs.cache
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.sourcelink.json
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.dll
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\refint\Fina.Core.dll
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.pdb
+C:\PauloMau-Pessoal\PMF\ADO-PMF\Projetos\Cursos\Balta.io\Jornada-FullStack\Fina.Core\obj\Debug\net8.0\ref\Fina.Core.dll
